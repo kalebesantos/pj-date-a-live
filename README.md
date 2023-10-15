@@ -1,2 +1,2 @@
 # SWORD ART ONLINE
-- Projeto SAO
+- SAO
